@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm mansi</h1>
-<h3 align="center">I'm a passionate Devops guy from India.</h3>
+<h3 align="center">I'm a passionate Software Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -73,7 +73,7 @@
 
 <a href = "https://www.linkedin.com/in/mansi-baheti"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+<!-- <a href = "https://twitter.com/mansibaheti"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 
 <a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
